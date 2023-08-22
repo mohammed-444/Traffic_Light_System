@@ -1,0 +1,9 @@
+images&videos/
+*.workspace
+*.pdsbak
+.vs/
+Debug/
+!Traffic_light_system.elf
+*.atsln
+*.xml
+.cproj
