@@ -9,7 +9,8 @@ The system aims to provide an on-demand traffic control system. It includes a pe
 <!-- <h1 align="center">state machine</h1> -->
 
 ![state machine](images&videos/state_machine.png)
-
+## Software layer architecture: 
+![code folders](images&videos/code_folders.png)
 ## Software requirements: 
 #### In normal mode:
 
