@@ -1,8 +1,7 @@
 # On-demand Traffic light control
 The system aims to provide an on-demand traffic control system. It includes a pedestrian button to allow for pedestrians to pass.
 
-    the project implement simple operating system using scheduler to decide the next state.
-
+    the project implement a simple operating system using scheduler to decide the next state.
     the main idea is that it make small delay in every state called then retrun to the scheduler to catch if there is any change happening in the program if no return to the state until time out.  
 ![simulation](images&videos/simulation.gif)
 ## State machine: 
