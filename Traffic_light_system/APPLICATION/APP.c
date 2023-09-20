@@ -76,7 +76,7 @@ void APP_init(void)
 *                                application Scheduler
 *************************************************************************************/
 //the main idea is that it make small delay every time the eye can not catch then retrun back from the state to the 
-// scheduler to check if there is no change in the programm 
+// scheduler to check if there is no change in the program 
 
 /*the Scheduler is a simple implementation of operating system 
 first the scheduler chech if there is any error in the initialization function with app_error flag
